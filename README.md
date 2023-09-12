@@ -10,22 +10,22 @@
 
 > There was zero AI used to generate code for this project. (Weird I know)
 
-**Techstack**
-: Next.js (Frontend)
-: Appwrite Cloud (DB, Storage)
-: Langchain (AI)
-: Tailwind, HeadlessUI (CSS)
-: Zustand (State management)
-: ReactDnD (Drag-n-Drop)
+**Techstack**:
+- Next.js (Frontend)
+- Appwrite Cloud (DB, Storage)
+- Langchain (AI)
+- Tailwind, HeadlessUI (CSS)
+- Zustand (State management)
+- ReactDnD (Drag-n-Drop)
 
 ---
 
 ### Development
 
-**Appwrite Todos collection structure**
-: title (string) - required
-: status (string)
-: image (string)
+**Appwrite Todos collection structure**:
+- title (string) - required
+- status (string)
+- image (string)
 
 **Run the development server**:
 
