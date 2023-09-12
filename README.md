@@ -10,7 +10,7 @@
 
 > There was zero AI used to generate code for this project. (Weird I know)
 
-**Techstack**:
+**Techstack**
 : Next.js (Frontend)
 : Appwrite Cloud (DB, Storage)
 : Langchain (AI)
@@ -22,7 +22,7 @@
 
 ### Development
 
-**Appwrite Todos collection structure**:
+**Appwrite Todos collection structure**
 : title (string) - required
 : status (string)
 : image (string)
